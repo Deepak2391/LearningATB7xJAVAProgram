@@ -7,6 +7,10 @@ public class Lab_If_Statement_EqualTo {
         int C = 15;
 
         if (A + B + C == 30) {
+            System.out.println("A:" + A);
+            System.out.println("B:" + B);
+            System.out.println("C:" + C);
+
             System.out.println("A+B+C are equal to 30");
         }
     }

@@ -8,7 +8,7 @@ public class Lab5_Int_Postive_Negative_Wise_Versa_print {
         System.out.println("Min:"+Min);
         System.out.println("Max:"+ Max);
 
-        System.out.println("Max:"+ Max);
+        System.out.println("Min:"+ Max);
         System.out.println("Max:"+ Min);
 
         System.out.println(Min);

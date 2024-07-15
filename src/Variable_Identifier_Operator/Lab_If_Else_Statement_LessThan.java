@@ -17,7 +17,7 @@ public class Lab_If_Else_Statement_LessThan {
         int a = 5;
         int b = 10;
 
-        if (a + b > 5) {
+        if (a + b < 15) {
             System.out.println("a + b is greater than 5");}
                     else   {
                 System.out.println("a + b is less than 5");
